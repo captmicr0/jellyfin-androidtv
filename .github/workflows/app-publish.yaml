@@ -1,6 +1,7 @@
 name: App / Publish
 
 on:
+  workflow_dispatch:
   push:
     tags:
       - v*
