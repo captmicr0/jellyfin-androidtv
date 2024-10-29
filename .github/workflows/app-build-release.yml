@@ -1,5 +1,4 @@
-`name: App / Build
-
+name: App / Build Release
 on:
   workflow_dispatch:
   push:
